@@ -1,0 +1,20 @@
+{
+    "name": "hp/php-framework",
+    "autoload": {
+        "psr-4": {
+            "Hp\\PhpFramework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LegendaryAy",
+            "email": "fadeniayobami@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\" : "./"
+        }
+    },
+    "require": {}
+}
